@@ -1,4 +1,4 @@
-# node-express-starter <br/>
+# staff management system <br/>
 A painless codebase to build your apps on in no time. It's a basic node/express basic templete that covers signup and email verification, login, forgot password and reset password. This codebase got you covered for any basic code, all you have to is to focus on main functionality of your app. 
 ## Routes
 * /user/auth/login <br/>
